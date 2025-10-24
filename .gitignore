@@ -1,1 +1,12 @@
 .env
+
+# ChromaDB local database files
+chroma_langchain_db/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
